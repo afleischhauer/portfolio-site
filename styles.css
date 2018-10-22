@@ -1,0 +1,17 @@
+.jumbotron {
+  background-image: url("../img/aura.jpg");
+  background-size: cover;
+  background-position: top;
+}
+
+.jumbotron h1 {
+  color: white;
+}
+
+.jumbotron h2 {
+  color: #00FF00;
+}
+
+.jumbotron p {
+  color: white;
+}
